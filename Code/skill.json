@@ -1,0 +1,127 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "A game to catch all the creatures.",
+          "examplePhrases": [
+            "Alexa open Bo Jo",
+            "Catch a creature",
+            "What creatures do I have?"
+          ],
+          "keywords": [
+            "Bo",
+            "Jo",
+            "Game",
+            "Catching",
+            "Creatures",
+            "BoJo"
+          ],
+          "name": "BoJo",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/e6c0/f144a90880c64df099aaf2bb4e073838/APP_ICON?versionId=1OBqp.nw2S4LV1jTcr4MF2WvFc14DA.q&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1524424884&Signature=rmUn8YXtUBhGzgb0kDrtdAEmYiA%3D",
+          "description": "A game to catch all the creatures. Have BoJo catch you a creature including a Gobolo, Weltim, Eggshem, Hooteray, Lipersnap, and a Mitlew that is just a few you and BoJo can catch. Check on your Alexa app, Echo Show, or Echo dot to see the creature caught. New creatures are coming soon. Have BoJo read how many creatures you have and to release the duplicate creatures.",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9247/9bc0423a96c146d6bb570f4920273f24/APP_ICON_LARGE?versionId=yIiKF3FiBn1YGE0J58jKfFp4jvIpJe1Q&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1524424884&Signature=9G96v4vCt3r2m9unLjIjHFFzs%2BU%3D"
+        },
+        "en-CA": {
+          "summary": "A game to catch all the creatures.",
+          "examplePhrases": [
+            "Alexa open Bo Jo",
+            "Catch a creature",
+            "What creatures do I have?"
+          ],
+          "keywords": [
+            "Bo",
+            "Jo",
+            "Game",
+            "Catching",
+            "Creatures",
+            "BoJo"
+          ],
+          "name": "BoJo",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/2590/186a99716d68490990e7b988823aae06/APP_ICON?versionId=YjEL7em4KM.__I29us0u02NImI5RmO4c&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1524424884&Signature=p7ZEGhQvfitS376tvNWIXRMk8gE%3D",
+          "description": "A game to catch all the creatures. Have BoJo catch you a creature including a Gobolo, Weltim, Eggshem, Hooteray, Lipersnap, and a Mitlew that is just a few you and BoJo can catch. Check on your Alexa app, Echo Show, or Echo dot to see the creature caught. New creatures are coming soon. Have BoJo read how many creatures you have and to release the duplicate creatures.",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/2b49/06bad2f1dae6478eac964ccbb71f2d89/APP_ICON_LARGE?versionId=nJ0SOt5C17mpoEcvt4EBmJfTGZYVSQmz&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1524424884&Signature=kFUqY0Ak3%2FxCTQOmbE7cgeZ9JSM%3D"
+        },
+        "en-IN": {
+          "summary": "A game to catch all the creatures.",
+          "examplePhrases": [
+            "Alexa open Bo Jo",
+            "Catch a creature",
+            "What creatures do I have?"
+          ],
+          "keywords": [
+            "Bo",
+            "Jo",
+            "Game",
+            "Catching",
+            "Creatures",
+            "BoJo"
+          ],
+          "name": "BoJo",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/b805/a71213d7e8c844119f13ea07097307c8/APP_ICON?versionId=7nbzZRc307Rd2FVAiEqvrWE3_474d8i_&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1524424884&Signature=ESwpEZXrbcP4Y54wfPxWq3Q0tYk%3D",
+          "description": "A game to catch all the creatures. Have BoJo catch you a creature including a Gobolo, Weltim, Eggshem, Hooteray, Lipersnap, and a Mitlew that is just a few you and BoJo can catch. Check on your Alexa app, Echo Show, or Echo dot to see the creature caught. New creatures are coming soon. Have BoJo read how many creatures you have and to release the duplicate creatures.",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/4272/eda398d2d82147e3bbbbddc7e0aa4e8f/APP_ICON_LARGE?versionId=ezMoE.PEst6._EV.ohGkRItdLa76UsA8&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1524424884&Signature=%2FKKcAVrMbG5aVVayhl5fWh7PWd4%3D"
+        },
+        "en-AU": {
+          "summary": "A game to catch all the creatures.",
+          "examplePhrases": [
+            "Alexa open Bo Jo",
+            "Catch a creature",
+            "What creatures do I have?"
+          ],
+          "keywords": [
+            "Bo",
+            "Jo",
+            "Game",
+            "Catching",
+            "Creatures",
+            "BoJo"
+          ],
+          "name": "BoJo",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/caae/d504855117834a5c9f76c945cc647800/APP_ICON?versionId=8AHG1qqqiCYWoWmRaTy2B9FQ7Zg32J2R&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1524424884&Signature=sd3XuojGLid9e91pdNO%2FeB9hKyw%3D",
+          "description": "A game to catch all the creatures. Have BoJo catch you a creature including a Gobolo, Weltim, Eggshem, Hooteray, Lipersnap, and a Mitlew that is just a few you and BoJo can catch. Check on your Alexa app, Echo Show, or Echo dot to see the creature caught. New creatures are coming soon. Have BoJo read how many creatures you have and to release the duplicate creatures.",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/1d81/f34d033843ac40cbb3fa1af6f4f835f8/APP_ICON_LARGE?versionId=nABI3_B6IuNwGv2EBRDdNHFEqYx7nZAb&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1524424884&Signature=AudOpvBSaVQwK2iyDRNOsO1bjZk%3D"
+        },
+        "en-GB": {
+          "summary": "A game to catch all the creatures.",
+          "examplePhrases": [
+            "Alexa open Bo Jo",
+            "Catch a creature",
+            "What creatures do I have?"
+          ],
+          "keywords": [
+            "Bo",
+            "Jo",
+            "Game",
+            "Catching",
+            "Creatures",
+            "BoJo"
+          ],
+          "name": "BoJo",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/eda8/40f0b480b5f747e9aceab7b4c146b6fe/APP_ICON?versionId=08_dw3bUU46QT1V2srMYFVEIwwEHRU6c&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1524424884&Signature=Bmpws4DVK0JcvhSPufc59JPJWEA%3D",
+          "description": "A game to catch all the creatures. Have BoJo catch you a creature including a Gobolo, Weltim, Eggshem, Hooteray, Lipersnap, and a Mitlew that is just a few you and BoJo can catch. Check on your Alexa app, Echo Show, or Echo dot to see the creature caught. New creatures are coming soon. Have BoJo read how many creatures you have and to release the duplicate creatures.",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/6bdf/fdcd4f25f9674609bcd6119ace21deb2/APP_ICON_LARGE?versionId=w.G1agNfVxumP7SXkMr3JvgvsMU5Fwam&AWSAccessKeyId=AKIAI3X6PUXD7CU5F5BQ&Expires=1524424884&Signature=edKr0xjHWmBfT42uXEGWg%2FVYbac%3D"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Ask Alexa to open Bo Jo, she will then give a short intro of how to play. Next say, \"catch a creature\" it will then pick a creature.",
+      "category": "GAMES",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/custom"
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": true,
+      "usesPersonalInfo": false
+    }
+  }
+}

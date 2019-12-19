@@ -1,0 +1,19 @@
+{
+  "deploy_settings": {
+    "laynr": {
+      "skill_id": "amzn1.ask.skill.83ea262b-2111-43c2-b9bc-f9013fbbe76a",
+      "was_cloned": true,
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "arn:aws:lambda:us-east-1:699296914020:function:ask-custom-BoJo-default"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

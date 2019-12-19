@@ -1,0 +1,77 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "bo jo",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "CreateIntent",
+          "samples": [
+            "to catch A Creature",
+            "catch A Creature",
+            "Creature",
+            "catch",
+            "catch one",
+            "get one",
+            "BoJo catch a creature",
+            "cature a creature BoJo",
+            "get one BoJo",
+            "catch one BoJo",
+            "go BoJo",
+            "catch BoJo",
+            "Create",
+            "yes"
+          ]
+        },
+        {
+          "name": "DeleteIntent",
+          "samples": [
+            "Delete",
+            "Delete creatures",
+            "let creatures go",
+            "release",
+            "release duplicates",
+            "let go of duplicates",
+            "release duplicate creatures",
+            "let go of duplicate creatures"
+          ]
+        },
+        {
+          "name": "InvalidIntent",
+          "samples": []
+        },
+        {
+          "name": "ReadIntent",
+          "samples": [
+            "Read",
+            "list my creatures",
+            "tell me my creatures",
+            "what creatures do I have",
+            "list",
+            "tell",
+            "show",
+            "show me",
+            "tell me"
+          ]
+        },
+        {
+          "name": "UpdateIntent",
+          "samples": [
+            "Update"
+          ]
+        }
+      ]
+    }
+  }
+}
