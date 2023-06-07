@@ -1,13 +1,3 @@
-"""
-This sample demonstrates a simple skill built with the Amazon Alexa Skills Kit.
-The Intent Schema, Custom Slots, and Sample Utterances for this skill, as well
-as testing instructions are located at http://amzn.to/1LzFrj6
-
-For additional samples, visit the Alexa Skills Kit Getting Started guide at
-http://amzn.to/1LGWsLG
-"""
-
-
 from __future__ import print_function
 import random
 import boto3
@@ -223,7 +213,7 @@ def handle_launch_request(session):
     superlative = random.choice (superlativesCreatureArray)
 
     session_attributes = {}
-    card_title      = 'Welcome'
+    card_title      = 'Welcome '
     card_content    =  get_creature_ratio(session)           \
                     + 'Tell BoJo to '                        \
                     + 'catch a creature, '                   \
@@ -232,7 +222,7 @@ def handle_launch_request(session):
 
 
     speech_output   = '<say-as interpret-as="interjection">' + str(superlative) + ' </say-as>, '    \
-                    + "I'm glad to see you, my name is BoJo!"                                       \
+                    + "I'm glad to see you, my name is BoJo! "                                       \
                     + get_creature_ratio(session)                                                   \
                     + get_common_speech_output(session)
 
@@ -336,14 +326,14 @@ def handle_delete_intent(intent, session):
 def handle_help_intent(session):
 
     session_attributes = {}
-    card_title      = "Try to catch all the creatures"
+    card_title      = "Try to catch all the creatures. "
     card_content    =  get_creature_ratio(session)           \
                     + 'Tell BoJo to '                        \
                     + 'catch a creature, '                   \
                     + 'list your caught creatures, '         \
                     + 'or release duplicate creatures, '
 
-    speech_output   = 'Try to catch all the creatures'       \
+    speech_output   = 'Try to catch all the creatures. '       \
                     +  get_creature_ratio(session)           \
                     +  'Tell BoJo to '                       \
                     + 'catch a creature, '                   \
@@ -439,7 +429,7 @@ def lambda_handler(event, context):
     function.
     """
     if (event['session']['application']['applicationId'] !=
-             "amzn1.ask.skill.83ea262b-2111-43c2-b9bc-f9013fbbe76a"):
+             "amzn1.ask.skill.2cd8cba1-cfab-418a-99a1-994975470325"):
          raise ValueError("Invalid Application ID")
     
 
